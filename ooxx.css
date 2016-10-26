@@ -1,0 +1,19 @@
+/* class css */
+.grid{width:100px; height:100px;}
+.Jiugongge{font-size:70px; text-align:center;}
+.ul{border-bottom: 2px solid #CCC; border-right: 2px solid #CCC; }
+.up{border-bottom: 2px solid #CCC; border-right: 2px solid #CCC; border-left: 2px solid #CCC;}
+.ur{border-left: 2px solid #CCC; border-bottom: 2px solid #CCC;}
+.left{border-right: 2px solid #CCC; border-bottom: 2px solid #CCC; border-top: 2px solid #CCC;}
+.center{border-right: 2px solid #CCC; border-bottom: 2px solid #CCC; border-top: 2px solid #CCC; border-left: 2px solid #CCC;}
+.right{border-bottom: 2px solid #CCC; border-top: 2px solid #CCC; border-left: 2px solid #CCC;}
+.ll{border-right: 2px solid #CCC; border-top: 2px solid #CCC;}
+.down{border-right: 2px solid #CCC; border-top: 2px solid #CCC; border-left: 2px solid #CCC;}
+.lr{border-top: 2px solid #CCC; border-left: 2px solid #CCC;}
+
+/* body css */
+body{width: auto; height: auto; background: url(images/ooxxBG.jpg) no-repeat scroll top center;}
+table{text-align: center; margin:0 auto; border-collapse: collapse;}
+#desk div{text-align: center; margin:0 auto; }
+h1{text-align: center; font-size: 50px; display: inline-block;}
+#logo{width: 50px ; height: 75px; background-image: url(images/jude_logo.png); background-repeat: no-repeat; background-size: 100% 100%; z-index: 1; display: inline-block;}
